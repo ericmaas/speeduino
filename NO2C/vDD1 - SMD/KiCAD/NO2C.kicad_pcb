@@ -627,7 +627,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1853786"
+		(property "LCSC Part" "C1636"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -640,7 +640,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0603JPX7R9BB102"
+		(property "MPN" "0603CG102J500NT"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3022,7 +3022,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1853786"
+		(property "LCSC Part" "C1636"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3035,7 +3035,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0603JPX7R9BB102"
+		(property "MPN" "0603CG102J500NT"
 			(at 0 0 90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25236,7 +25236,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1853786"
+		(property "LCSC Part" "C1636"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -25249,7 +25249,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0603JPX7R9BB102"
+		(property "MPN" "0603CG102J500NT"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -40083,7 +40083,7 @@
 				)
 			)
 		)
-		(property "LCSC Part" "C1853786"
+		(property "LCSC Part" "C1636"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -40096,7 +40096,7 @@
 				)
 			)
 		)
-		(property "MPN" "CC0603JPX7R9BB102"
+		(property "MPN" "0603CG102J500NT"
 			(at 0 0 -90)
 			(unlocked yes)
 			(layer "F.Fab")

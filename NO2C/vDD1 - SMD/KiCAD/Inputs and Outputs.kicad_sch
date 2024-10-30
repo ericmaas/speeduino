@@ -14962,7 +14962,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C1853786"
+		(property "LCSC Part" "C1636"
 			(at 359.41 142.24 0)
 			(effects
 				(font
@@ -14971,7 +14971,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0603JPX7R9BB102"
+		(property "MPN" "0603CG102J500NT"
 			(at 359.41 142.24 0)
 			(effects
 				(font
@@ -15567,7 +15567,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC Part" "C1853786"
+		(property "LCSC Part" "C1636"
 			(at 372.11 142.24 0)
 			(effects
 				(font
@@ -15576,7 +15576,7 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CC0603JPX7R9BB102"
+		(property "MPN" "0603CG102J500NT"
 			(at 372.11 142.24 0)
 			(effects
 				(font
