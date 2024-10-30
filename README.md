@@ -27,5 +27,6 @@ The No Overhang Two Channel was designed to incorporate as many features as poss
 - Analog inputs for CLT, IAT, TPS, and O2
 - MAP sensor onboard
 - Socket for stepper idle control module
+- Additional pins for i2c and canbus
 
 Latest version: DD1

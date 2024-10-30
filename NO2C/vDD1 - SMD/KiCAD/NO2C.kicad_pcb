@@ -18065,7 +18065,7 @@
 		(path "/349d9f66-4b11-40da-bf84-4c3ae2af1bf8")
 		(sheetname "Root")
 		(sheetfile "NO2C.kicad_sch")
-		(attr through_hole exclude_from_pos_files exclude_from_bom)
+		(attr through_hole)
 		(fp_line
 			(start -10.75 26)
 			(end -10.75 3)
