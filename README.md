@@ -17,6 +17,7 @@ I am not an engineer, mechanic, or automotive specialist, please use at your own
 
 Please review vehicle laws and regulations prior to use. 
 
+Connector used is a TE # 3-6437285-0
 
 The No Overhang Two Channel was designed to incorporate as many features as possible into a SMD board that moves to a new smaller format size. Microcontroller onboard. It is a 2+2 channel board that incorporates the features below.
 - Two injector channels
