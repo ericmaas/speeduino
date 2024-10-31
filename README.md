@@ -19,6 +19,12 @@ Please review vehicle laws and regulations prior to use.
 
 Connector used is a TE # 3-6437285-0
 
+Future Feature Wish List:
+
+- SD Card for data logging
+- Dedicated prototyping pins (would be great for oil pressure)
+
+
 The No Overhang Two Channel was designed to incorporate as many features as possible into a SMD board that moves to a new smaller format size. Microcontroller onboard. It is a 2+2 channel board that incorporates the features below.
 - Two injector channels
 - Two ignitor channels
@@ -31,3 +37,4 @@ The No Overhang Two Channel was designed to incorporate as many features as poss
 - Additional pins for i2c and canbus
 
 Latest version: DD1
+
