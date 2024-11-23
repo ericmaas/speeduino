@@ -11,6 +11,9 @@ https://github.com/turboedge/SpeedyBoards/
 Originally forked from:
 https://github.com/turboedge/SpeedyBoards/tree/master
 
+Wideband ideation from:
+https://github.com/oelprinz-org
+
 Please review my workprior to printing, and test your work. 
 
 I am not an engineer, mechanic, or automotive specialist, please use at your own risk.
@@ -35,6 +38,7 @@ The No Overhang Two Channel was designed to incorporate as many features as poss
 - MAP sensor onboard
 - Socket for stepper idle control module
 - Additional pins for i2c and canbus
+- LSU 4.9 Wideband integration
 
-Latest version: DD1
+Latest version: DD2
 
