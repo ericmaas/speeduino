@@ -39,6 +39,7 @@ The No Overhang Two Channel was designed to incorporate as many features as poss
 - Socket for stepper idle control module
 - Additional pins for i2c and canbus
 - LSU 4.9 Wideband integration
+- Bluetooth 4.0 (HM-10)
 
-Latest version: DD2
+Latest version: DD3
 
